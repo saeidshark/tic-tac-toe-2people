@@ -1,2 +1,3 @@
-# tic-tac-toe-2people
 C++
+
+use codeblocks app for run this program
